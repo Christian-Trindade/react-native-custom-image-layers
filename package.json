@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-image-layers",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Custom Image Layers is a simple Reat Native component to overlay image layers and generate dynamic pictures",
   "main": "index.js",
   "scripts": {
