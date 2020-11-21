@@ -1,0 +1,25 @@
+{
+  "name": "react-native-custom-image-layers",
+  "version": "0.0.1",
+  "description": "Custom Image Layers is a simple Reat Native component to overlay image layers and generate dynamic pictures",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christian-Trindade/react-native-custom-image-layers.git"
+  },
+  "keywords": [
+    "reactnative",
+    "react",
+    "image",
+    "layers"
+  ],
+  "author": "Christian Trindade de Moura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christian-Trindade/react-native-custom-image-layers/issues"
+  },
+  "homepage": "https://github.com/Christian-Trindade/react-native-custom-image-layers#readme"
+}

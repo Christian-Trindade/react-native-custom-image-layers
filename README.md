@@ -67,6 +67,8 @@ import CustomImageLayers from "react-native-custom-image-layers";
 
 Check the [Demo](https://github.com/Christian-Trindade/react-native-custom-image-layers-demo)
 
+![gig](https://firebasestorage.googleapis.com/v0/b/berap-a671c.appspot.com/o/gif-example.gif?alt=media&token=1969d6da-ae7f-4731-8bd0-80d5cfe18fbc)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
